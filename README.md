@@ -2,6 +2,8 @@
 
 A powerful module designed to enhance the **Trouble in Terrorist Town (TTT)** gameplay on Counter-Strike 1.6 servers, utilizing ReAPI for extended functionality and customization.
 
+download [here](https://github.com/hUnT3r0707/TTT-Reapi-Support/releases/download/TTT/TTT.reapi.rar).
+
 ---
 
 ## 🌟 Features
