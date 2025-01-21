@@ -14,7 +14,7 @@ A powerful module designed to enhance the **Trouble in Terrorist Town (TTT)** ga
 ---
 
 ✅ Compatibility
-This module has been tested on the following versions and modules:
+This mod has been tested on the following versions of modules:
 
 Re-HLDS: 3.8.0.703
 
