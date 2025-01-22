@@ -42,3 +42,11 @@ I did not make this mod nor converted it to REAPI. You can download respective s
 https://forums.alliedmods.net/showthread.php?t=238780
 
 https://forums.alliedmods.net/showthread.php?t=340389
+
+---
+
+## 💬 Contact
+
+Have questions or need support? Reach out via:
+
+- Discord: hunt3r_ex
